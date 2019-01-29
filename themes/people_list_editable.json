@@ -77,6 +77,12 @@
 					"description": "Design and simulation of conformal cooling channel for injection molding via additive manufacturing technique",
 					"email": "",
 					"linkedin": ""
+				},
+				{
+					"name": "Wenbo Min",
+					"description": "Life cycle assessment for the sustainability and environmental impact of additive manufacturing",
+					"email": "wenbo.min@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/wenbo-min-398255171/"
 				}
 			]
 		},
@@ -93,6 +99,13 @@
 					"name": "Yunlong Tang",
 					"type": "PhD Graduate",
 					"description": "Topology and Functionality Optimization for Additive Manufacturing",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Maryam Tavafoghi",
+					"type": "Post-doctorate",
+					"description": "Bio-compatible ceramic characterization for 3D printing",
 					"email": "",
 					"linkedin": ""
 				},
@@ -118,11 +131,11 @@
 					"linkedin": "https://www.linkedin.com/in/han-chen-aa113771/"
 				},
 				{
-					"name": "Jason Danovitch",
+					"name": "Aidan Kurtz",
 					"type": "Master's Graduate",
 					"description": "Residue stress analysis of powder deposition process",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://ca.linkedin.com/pub/aidan-kurtz/99/57/4a6"
 				},
 				{
 					"name": "Jordan Cave",
@@ -146,9 +159,51 @@
 					"linkedin": "https://www.linkedin.com/in/julien-finley-00b61465/"
 				},
 				{
+					"name": "Fan Yang",
+					"type": "Master's Graduate",
+					"description": "Design allowance for binder-jetting additive manufacturing process",
+					"email": "",
+					"linkedin": ""
+				},
+				{
 					"name": "Mohamed Aslam",
 					"type": "Master's Graduate",
-					"description": "environmental impact on the design optimization for AM",
+					"description": "Environmental impact on the design optimization for AM",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Tanushree Talekar",
+					"type": "Master's Graduate",
+					"description": "Feature based modeling for the sustainability analysis of additively manufactured products",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Viet Thi Nguyen",
+					"type": "Master's Graduate",
+					"description": "3D design and printing of vocal scaffold for cell culturing",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Yujia Wang",
+					"type": "Master's Graduate",
+					"description": "Investigation of printing orientation on product mechanical properties via binder-jetting additive manufacturing process",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Gagandeep Singh",
+					"type": "Master's Graduate",
+					"description": "Modeling & Simulation of Aerospace Product Development",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Mohammed Taleb Ameri",
+					"type": "Master's Graduate",
+					"description": "Sustainability assessment of milling manufacturing process",
 					"email": "",
 					"linkedin": ""
 				},
