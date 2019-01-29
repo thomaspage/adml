@@ -621,6 +621,10 @@ h1 {
 	min-height: 200px;
 }
 
+#content .image-heading.intralattice h1 {
+	text-shadow: none;
+}
+
 #content .image-heading h1 {
 	padding: 20px;
 	margin: 0;
@@ -690,6 +694,17 @@ h1 {
 	width: 50%;
 	padding: 10px 50px;
 	text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+#content .weak {
+	font-weight: 100;
+}
+
+#content .intralattice {
+	background: url(../img/research/intralattice.jpg) no-repeat right center;
+	background-size: cover;
+	justify-content: flex-end;
+	color: #D9534F;
 }
 
 #content .technologies {
