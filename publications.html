@@ -176,8 +176,6 @@
 						$('#' + id + ' .results').append(publicationsDiv)
 						$('#' + id + ' .loader').hide()
 
-						console.log(response)
-
 						var next_page = response['search-results']['link'].find( x => x['@ref'] == 'next' )
 						next_page && $('#' + id + ' .loadmore').show().off().click( function(event) {loadMorePapers(next_page['@href'], event)} );
 
