@@ -609,7 +609,7 @@ h1 {
 }
 
 
-#content .project:last-child {
+#content .project:last-child:not(:only-child) {
 	border: none;
 }
 
