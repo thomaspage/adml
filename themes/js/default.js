@@ -7,10 +7,13 @@ var ADML = {
 
 	initPage: function(pageName) {
 		$(function(){
-			$("#header").load("header.html", function() {
+			$.get("header.html", function(data) {
+				$("body").prepend(data)
 				$("#header-" + pageName).addClass('active')
 			});
-			$("#footer").load("footer.html");
+			$.get("footer.html", function(data) {
+				$("body").append(data)
+			});
 		});
 	},
 
